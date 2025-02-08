@@ -37,9 +37,7 @@ This is a simple yet professional **Password Strength Checker** built with **Pyt
    ```sh
    python3 password_checker.py
    ```
-
-## 📷 Preview
-![Password Strength Checker](https://example.com/screenshot.png)
+   
 
 ## 🤝 Contribution
 Feel free to fork this project and improve the password validation logic. Pull requests are welcome!
